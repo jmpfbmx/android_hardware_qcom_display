@@ -4,7 +4,6 @@ cc_defaults {
         "-Wno-missing-field-initializers",
         "-Wconversion",
         "-Wall",
-        "-Werror",
         "-std=c++14",
     ],
     shared_libs: [
